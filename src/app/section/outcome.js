@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import Image from "next/image";
 import logo from "../../assets/farm_img4.jpg";
@@ -25,9 +26,9 @@ const Outcome = () => {
               As a graduate of this program, you will own valuable products such
               as Full-Stack App Templates, AR and VR Experiences, and APIs that
               are marketed globally by the Panaverse DAO. You will also have the
-              opportunity to offer your services at a rate of $50 per hour,
+              opportunity to offer your services at a rate of $50 per hour
               providing a path to financial stability while contributing to the
-              growth of Pakistan's software exports.
+              growth of Pakistans software exports.
             </p>
 
             <div className="mt-5 grid grid-cols-2 gap-x-4">
