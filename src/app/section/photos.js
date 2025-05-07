@@ -1,12 +1,12 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import logo from "../../assets/farm_img5.jpeg";
+import logo2 from "../../assets/farm_img5.jpeg";
 import logo1 from "../../assets/farm_img6.jpeg";
-import logo2 from "../../assets/farm_img7.jpeg";
-import logo3 from "../../assets/farm_img8.jpeg";
-import logo4 from "../../assets/farm_img2.jpg";
-import logo5 from "../../assets/farm_img9.jpg";
+import logo4 from "../../assets/farm_img7.jpeg";
+import logo from "../../assets/farm_img8.jpeg";
+import logo5 from "../../assets/farm_img2.jpg";
+import logo3 from "../../assets/farm_img9.jpg";
 
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/solid';
 

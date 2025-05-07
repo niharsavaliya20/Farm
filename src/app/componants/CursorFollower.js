@@ -63,6 +63,7 @@ export default function CursorFollower() {
         damping: 25,
       }}
     >
+      
       <Image src={logo} alt="Plant" width={30} height={30} />
     </motion.div>
   );
