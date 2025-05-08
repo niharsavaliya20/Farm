@@ -7,8 +7,8 @@ import { motion } from "framer-motion";
 const Navbar = () => {
   return (
     <div className="bg-white sticky top-0 z-50 border-b border-gray-300 shadow-sm">
-      <div className="max-w-[1300px] bg-white mx-auto px-10">
-        <div className="flex justify-between items-center py-5 px-3 text-primary">
+      <div className="max-w-[1300px] bg-white mx-auto">
+        <div className="flex justify-between items-center py-5 text-primary">
           <Image
             src={logo}
             alt="Logo"

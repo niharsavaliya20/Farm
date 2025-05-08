@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import logo from "../../assets/farm_img4.jpg";
+import logo from "../../assets/farm_img10.jpeg";
 import polygonIcon from "../../assets/polyicon.png";
 const Outcome = () => {
   return (
